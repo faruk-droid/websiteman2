@@ -1,0 +1,597 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #ffffff;
+  width: 1440px;
+  height: 3665px;
+  position: relative;
+  overflow: hidden;
+}
+.background-frame-1 {
+  background: #49815f;
+  width: 1460px;
+  height: 760px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.rectangle-6 {
+  background: #b6c4b6;
+  width: 1440px;
+  height: 110px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.ad-79-fa-5-cef-22568875-f-40-b-396586-b-9-d-1-1 {
+  width: 63px;
+  height: 71px;
+  position: absolute;
+  left: 67px;
+  top: 64px;
+}
+.madrasah-aliyah-negeri-2-gresik {
+  color: #000000;
+  text-align: left;
+  font-family: "DroidSans-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 151px;
+  top: 83px;
+  width: 204px;
+  height: 46px;
+}
+.taskbar {
+  position: absolute;
+  inset: 0;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansMalayalamUi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 382px;
+  top: 80px;
+}
+.profil {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansMalayalamUi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 793px;
+  top: 80px;
+}
+.visi-dan-misi {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansMalayalamUi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 526px;
+  top: 80px;
+  width: 300px;
+}
+.ppdb-2023-2024 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansMalayalamUi-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 955px;
+  top: 80px;
+}
+.background-frame-5 {
+  background: #49815f;
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+  left: 0px;
+  top: 1650px;
+}
+.meningkatkan-kualitas-pendidikan-yang-berorientasi-pada-penghayatan-keimanan-ketaqwaan-kecerdasan-dan-keterampilan-mewujudkan-perilaku-warga-madrasah-yang-peduli-terhadap-pencegahan-pencemaran-menjaga-lingkungan-dari-kerusakan-serta-melestarikannya-mengembangkan-kemampuan-peserta-didik-dalam-berbahasa-arab-berbahasa-inggris-dan-penelitian-mewujudkan-lingkungan-madrasah-yang-bersih-dan-sehat-sebagai-sumber-belajar-yang-menyenangkan-membangun-citra-madrasah-sebagai-mitra-terpercaya-masyarakat-menciptakan-lingkungan-madrasah-yang-rindang-untuk-menuju-madrasah-adiwiyata {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 774px;
+  top: 1934px;
+  width: 576px;
+}
+.background-frame-6 {
+  background: rgba(78, 153, 78, 0.82);
+  width: 1440px;
+  height: 810px;
+  position: absolute;
+  left: 0px;
+  top: 2450px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.background-frame-4 {
+  background: #344d34;
+  width: 1458px;
+  height: 418px;
+  position: absolute;
+  left: 0px;
+  top: 3250px;
+}
+.rectangle-17 {
+  background: #b6c4b6;
+  width: 1458px;
+  height: 81.44px;
+  position: absolute;
+  left: 0px;
+  top: 3583.62px;
+}
+.madrasah-man-2-gresik-sch-id {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 3394px;
+  width: 171px;
+}
+._3916884-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 54px;
+  top: 3357px;
+}
+._5068731-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 54px;
+  top: 3474px;
+}
+.jl-raya-metatu-no-07-kec-benjeng-kab-gresik {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 93px;
+  top: 3361px;
+  width: 274px;
+}
+.jl-raya-metatu-no-07-kec-benjeng-kab-gresik2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 342px;
+  top: 5px;
+  width: 274px;
+}
+._3916631-1 {
+  width: 25px;
+  height: 24px;
+  position: absolute;
+  left: 54px;
+  top: 3394px;
+}
+._3917561-1 {
+  width: 25px;
+  height: 24px;
+  position: absolute;
+  left: 54px;
+  top: 3434px;
+}
+.https-www-man-2-gresik-sch-id {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 3435px;
+  width: 181px;
+}
+._031-7993264 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 3478px;
+  width: 79px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 55px;
+  top: 3306px;
+  width: 144px;
+}
+.follow-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 455px;
+  top: 3307px;
+}
+.group-1 {
+  height: auto;
+  position: absolute;
+  left: 54px;
+  top: 3342px;
+  overflow: visible;
+}
+.group-4 {
+  height: auto;
+  position: absolute;
+  left: 54px;
+  top: 3342px;
+  overflow: visible;
+}
+.group-5 {
+  height: auto;
+  position: absolute;
+  left: 455px;
+  top: 3343px;
+  overflow: visible;
+}
+.group-6 {
+  height: auto;
+  position: absolute;
+  left: 455px;
+  top: 3344px;
+  overflow: visible;
+}
+._4494468-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 455px;
+  top: 3356px;
+}
+._3116491-1 {
+  width: 26px;
+  height: 25px;
+  position: absolute;
+  left: 492px;
+  top: 3356px;
+}
+._4494467-1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  left: 569px;
+  top: 3356px;
+}
+._1384005-1 {
+  width: 26px;
+  height: 25px;
+  position: absolute;
+  left: 531px;
+  top: 3356px;
+}
+.rectangle-32 {
+  background: #82c682;
+  border-radius: 17px;
+  width: 202px;
+  height: 550px;
+  position: absolute;
+  left: 33px;
+  top: 1800px;
+}
+.rectangle-24 {
+  border-radius: 17px;
+  width: 294px;
+  height: 653px;
+  position: absolute;
+  left: 56px;
+  top: 1747px;
+}
+.rectangle-46 {
+  border-radius: 17px;
+  width: 294px;
+  height: 656px;
+  position: absolute;
+  left: 373px;
+  top: 1744px;
+}
+.sambutan-kepala-sekolah {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 52px;
+  font-weight: 400;
+  position: absolute;
+  left: 52px;
+  top: 2473px;
+  width: 860px;
+  height: 75px;
+}
+.assalamu-alaikum-wr-wb-alhamdulillahirabbilalamin-puji-dan-syukur-kami-panjatkan-kahadirat-allah-swt-atas-limpahan-rahmat-hidayah-dan-kenikmatan-nya-sehingga-kami-dapat-merealisasikan-website-madrasah-aliyah-negeri-2-gresik-website-ini-mudah-mudahan-dapat-membuka-jalur-lajur-informasi-secara-utuh-dan-meyeluruh-khususnya-perkembangan-dalam-dunia-pendidikan-di-era-global-dan-dapat-meningkatkan-pelayanan-pendidikan-serta-meningkatkan-kualitas-pembelajaran-peserta-didik-yang-akhirnya-dapat-meningkatkan-pelayanan-kepada-semua-pihak-utamanya-steak-holders-madrasah-aliyah-negeri-2-gresik {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular", sans-serif;
+  font-size: 34px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 2630px;
+  width: 696px;
+  height: 610px;
+}
+.drs-h-samari-mm {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 67px;
+  font-weight: 600;
+  position: absolute;
+  left: 50px;
+  top: 2525px;
+}
+.visi-dan-misi2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 745px;
+  top: 1686px;
+  width: 571px;
+  height: 79px;
+}
+.bpk-samari {
+  width: 501px;
+  height: 768px;
+  position: absolute;
+  left: 899px;
+  top: 2432px;
+}
+.visi {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 753px;
+  top: 1778px;
+}
+.misi {
+  color: #000000;
+  text-align: left;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  left: 753px;
+  top: 1893px;
+}
+.madrasah-islami-terampil-populis-berbasis-digital-dan-mendunia {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 756px;
+  top: 1814px;
+  width: 594px;
+}
+.rectangle-30 {
+  background: #0e6265;
+  width: 1440px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._031-79932642 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 552px;
+  top: 13px;
+  width: 79px;
+}
+.jl-raya-metatu-no-07-kec-benjeng-kab-gresik3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 246px;
+  top: 13px;
+  width: 259px;
+}
+.madrasah-man-2-gresik-sch-id2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "JockeyOne-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 668px;
+  top: 13px;
+  width: 198px;
+  height: 28px;
+}
+._3916882-1 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: calc(50% - 504px);
+  top: 13px;
+}
+._5070407-1 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 522px;
+  top: 13px;
+}
+._3916611-1 {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: 638px;
+  top: 13px;
+}
+.rectangle-33 {
+  background: #304d30;
+  border-radius: 8px;
+  width: 1460px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 800px;
+}
+.berita-terkini {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Kanit-SemiBold", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+  position: absolute;
+  left: 551px;
+  top: 830px;
+}
+.rectangle-35 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 46px;
+  top: 948px;
+}
+.rectangle-58 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 46px;
+  top: 1300px;
+}
+.rectangle-54 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 526px;
+  top: 950px;
+}
+.rectangle-59 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 526px;
+  top: 1302px;
+}
+.rectangle-56 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 996px;
+  top: 950px;
+}
+.rectangle-60 {
+  border-radius: 8px;
+  width: 404px;
+  height: 252px;
+  position: absolute;
+  left: 996px;
+  top: 1302px;
+}
+.rectangle-53 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 56px;
+  top: 1105px;
+  filter: blur(0px);
+}
+.rectangle-61 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 56px;
+  top: 1455px;
+  filter: blur(0px);
+}
+.rectangle-55 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 536px;
+  top: 1105px;
+  filter: blur(0px);
+}
+.rectangle-62 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 536px;
+  top: 1457px;
+  filter: blur(0px);
+}
+.rectangle-57 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1006px;
+  top: 1105px;
+  backdrop-filter: blur(0px);
+}
+.rectangle-63 {
+  background: #29adb2;
+  border-radius: 8px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1006px;
+  top: 1457px;
+  filter: blur(0px);
+}
